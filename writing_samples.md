@@ -324,7 +324,7 @@ Use Stackdriver monitoring to send server error response alerts for your Google 
 
    To aggregate by count instead:
 
-   ​	a. click **SHOW ADVANCED OPTIONS**.
+   ​	a. Click **SHOW ADVANCED OPTIONS**.
 
    ​	b. Under **Aligner**, which is set to **rate** by default, click the drop down, and select **count** instead.
 
@@ -374,7 +374,7 @@ To create an IAM policy for Parameter Store access:
 
 5. To restrict access under this policy to a namespace in the Parameter Store:
 
-   a. click **Resources**.
+   a. Click **Resources**.
 
    b. Select **Specific**.
 
